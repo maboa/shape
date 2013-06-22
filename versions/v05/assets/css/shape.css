@@ -91,7 +91,9 @@ h2 {
 
 .profile-pic {
   float: right; 
-  margin: 12px;
+  border: solid 1px #efefff;
+  margin-left: 16px;
+  margin-bottom: 16px;
 }
 
 .logo {
