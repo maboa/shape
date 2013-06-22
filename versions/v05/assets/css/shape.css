@@ -21,6 +21,11 @@ body {
   font-size: 100px;
   line-height: 1;
 }
+.jumbotron .title {
+  font-size: 32px;
+  font-weight: bold;
+  line-height: 1.25;
+}
 .jumbotron .lead {
   font-size: 24px;
   line-height: 1.25;
@@ -88,12 +93,6 @@ body {
 h2 {
   color: #00006b;
 }
-
-.profile-pic {
-  float: right; 
-  margin: 12px;
-}
-
 .logo {
   text-align: center;
 }

@@ -1,0 +1,23 @@
+.member {
+	text-align:center;
+}
+
+.member .profile-pic {
+	height: 194px;
+	border: 1px solid #efefff;
+}
+
+.member .name {
+	display: block;
+	color: #888;
+}
+
+.description {
+	font-size: 24px;
+	line-height: 48px;
+	margin: 0px 40px;
+}
+
+.intro {
+	margin-top: 40px;
+}
